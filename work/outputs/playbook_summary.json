@@ -1,1 +1,35 @@
-
+{
+  "snapshot_month": "2026-03",
+  "total_visible_pages": 176738,
+  "archetype_counts": {
+    "0": 21956,
+    "1": 76414,
+    "2": 75611,
+    "3": 2408,
+    "4": 349
+  },
+  "archetype_names": {
+    "0": "Buried / Low Visibility",
+    "1": "Page-1 Blind Spot (zero clicks, ranks fine)",
+    "2": "Page-1 Blind Spot (zero clicks, ranks fine)",
+    "3": "High-Traffic Underperformer",
+    "4": "Low-Volume Noise (exclude from action)"
+  },
+  "action_counts": {
+    "review": 154433,
+    "monitor": 21956,
+    "exclude": 349
+  },
+  "pct_review_queue_individually_no_action": 0.5744,
+  "content_type_share_all_visible": {
+    "keyword article": 0.905,
+    "feedly article": 0.076,
+    "comparison article": 0.019
+  },
+  "content_type_share_review_queue": {
+    "keyword article": 0.896,
+    "feedly article": 0.083,
+    "comparison article": 0.021
+  },
+  "notes": "Cluster ID numbers are not stable across reruns (confirmed); archetype names are the stable reference, never raw cluster IDs."
+}
